@@ -13,6 +13,5 @@
   },
   "license": "ISC",
   "dependencies": {
-    "css": "^2.2.1"
   }
 }
