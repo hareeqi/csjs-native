@@ -13,6 +13,6 @@
   },
   "license": "ISC",
   "dependencies": {
-    "css-parse": "^2.0.0"
+    "css": "^2.2.1"
   }
 }
