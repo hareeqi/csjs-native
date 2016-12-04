@@ -1,8 +1,9 @@
 
 var parse = require('./parser');
-
-var sheet;
 var create
+try {
+  create = require('react-native').StyleSheet.create
+} catch (e){}
 
 /*
   Transform code is taken from https://github.com/raphamorim/native-css
@@ -49,7 +50,4 @@ module.exports.csjs = (css) =>{
   result = create? create(result) : result;
   return result;
 
-}
-module.exports.setStyleSheet = (styleSheet) => {
-  sheet = styleSheet;
 }
