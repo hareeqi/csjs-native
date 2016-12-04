@@ -1,5 +1,5 @@
 
-var parse = require('css').parse
+var parse = require('./parser.js');
 
 var sheet;
 var create
