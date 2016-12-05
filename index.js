@@ -1,6 +1,6 @@
 
 
-var csjs = require('./csjs-native.js')
+var csjs = require('./lib/csjs-native.js')
 
 module.exports = csjs.csjs
 module.exports.csjs = csjs.csjs
