@@ -10,11 +10,15 @@ csjs-native enables you to use the environment tools provided by [CSJS](https://
 - Syntax highlighting
 - Css auto-complete
 - Framework agnostic 
-- Share components across platform (Web, iOS, Android) 
+- Share components across platform (Web, iOS, Android)
+- Single file component if you choose to (js, jsx, css)
 - Tiny  
 
-.
 
+## Install
+```javascript 
+//Still didn't publish to no npm, will do later
+```
 
 ## Example
 
