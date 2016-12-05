@@ -9,6 +9,7 @@ csjs-native enables you to use the environment tools provided by [CSJS](https://
 - Full power of js in css if you choose to.
 - Syntax highlighting
 - Css auto-complete
+- Framework agnostic 
 - Share components across platform (Web, iOS, Android) 
 - Tiny  
 
