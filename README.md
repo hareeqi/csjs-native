@@ -12,7 +12,7 @@ csjs-native enables you to use the environment tools provided by [CSJS](https://
 - Css auto-complete - [Docs](./docs/auto_complete.md)
 - Framework agnostic - [Docs](./docs/framework_agnostic.md)
 - Share components across platform (Web, iOS, Android) - [Docs](./docs/framework_agnostic.md)
-- Single file component if you choose to (js, jsx, css)  - see example below below)
+- Single file component if you choose to (js, jsx, css)  - see example below below
 - Tiny & zero dependencies ~3KB
 
 
