@@ -1,12 +1,19 @@
 {
   "name": "csjs-native",
   "version": "1.0.0",
-  "description": "csjs-native",
+  "description": "PostCss / LESS / SASS and more in react native",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "hareeqi <hareeqi@gmail.com>",
+  "keywords": [
+    "react",
+    "react native",
+    "css",
+    "postcss",
+    "css-in-js"
+  ],
+  "author": "hareeqi",
   "repository": {
     "type": "git",
     "url": "https://github.com/hareeqi/csjs-native.git"
