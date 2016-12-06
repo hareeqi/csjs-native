@@ -9,20 +9,20 @@ csjs-native enables you to use the environment tools provided by [CSJS](https://
 - Full power of js in css if you choose to.
 - Syntax highlighting
 - Css auto-complete
-- Framework agnostic 
+- Framework agnostic
 - Share components across platform (Web, iOS, Android)
 - Single file component if you choose to (js, jsx, css)
-- Tiny  
+- Tiny  ~3KB
 
 
 ## Install
-```javascript 
+```javascript
 //Still didn't publish to no npm, will do later
 ```
 
 ## Example
 
-```javascript 
+```javascript
 
 import { AppRegistry, Text, View } from 'react-native';
 import React from 'react';
