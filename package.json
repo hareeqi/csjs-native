@@ -1,6 +1,6 @@
 {
   "name": "csjs-native",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PostCss / LESS / SASS and more in react native",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,5 @@
     "url": "https://github.com/hareeqi/csjs-native.git"
   },
   "license": "ISC",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
