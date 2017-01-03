@@ -1,3 +1,6 @@
+> Notice: This is still under development. It is just a proof of concept 
+
+
 # csjs-native
 covert regular css, PostCss, SASS...etc into **JS object literals** to be used with react native or any framework that uses JS object literals.
 
